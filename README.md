@@ -27,6 +27,7 @@
 <a href="https://twitter.com/https://twitter.com/vinoth281099" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vinoth281099" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vinoth-kumar-v281099/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vinoth-kumar-v281099/" height="30" width="40" /></a>
 <a href="https://mail.google.com/mail/u/0/#inbox?compose=new" target="new"><img align="center" src="https://1000logos.net/wp-content/uploads/2018/05/Gmail-Logo.jpg" height="30" width="60" /></a>
+<a href="https://discordapp.com/users/vinothkumar_" target="new"><img align="center" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
