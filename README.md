@@ -9,17 +9,17 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- 🔭 I’m currently working on **GBP**
+- 🔭 I’m currently working on **DataStride Analytics**
 
-- 🌱 I’m currently learning **TRPC, Prisma**
+- 🌱 I’m currently learning **python**
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/VinoV1999?tab=repositories" target="blank">**GitHub Repository**</a>
 
-- 💬 Ask me about **React, Next.js, Redux, Tailwind, Firebase**
+- 💬 Ask me about **React, Next.js, Node.js, Express, PostgresSQL, MongoDB, Redis**
 
 - 📫 How to reach me **vinothkumar281019@gmail.com**
 
-- 📄 Know about my experiences <a href="https://docs.google.com/document/d/13e5-PrpPVxYSMuscKbf0yp07e4HTrENvY4uPfin3340/edit?usp=share_link" target="blank">**Resume**</a>
+- 📄 Know about my experiences <a href="https://vinoth-portfolio-rust.vercel.app/" target="blank">**Portfolio**</a>
 
 
 <h3 align="left">Connect with me:</h3>
