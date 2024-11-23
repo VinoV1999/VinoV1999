@@ -1,6 +1,6 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/website1.gif))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Vinoth Kumar V</h1>
-<h3 align="center">""Driving end-to-end workflows by crafting user-friendly designs, building robust backend systems, and delivering seamless digital experiences."</h3>
+<h3 align="center">Driving end-to-end workflows by crafting user-friendly designs, building robust backend systems, and delivering seamless digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinov1999&label=Profile%20views&color=0e75b6&style=flat" alt="vinov1999" /> </p>
 
